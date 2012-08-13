@@ -69,7 +69,7 @@
 	'days_of_the_week' => 'Dit&euml;t e jav&euml;s',
 	'db_out_of_sync' => 'Versioni DB i sinkronizuar.',
 	'deleted' => 'e fshir&euml;',
-	'delete_action' => 'Fshi',
+	'delete_action' => 'fshij',
 	'delete_all' => 'Fshi t&euml; gjitha',
 	'delete_badge' => 'Fshi Logon',
 	'demo' => 'Demostrim',
@@ -301,5 +301,3 @@
 	'your_search_for' => 'Ju po k&euml;rkoni p&euml;r',
 	);
 ?>
-
-
